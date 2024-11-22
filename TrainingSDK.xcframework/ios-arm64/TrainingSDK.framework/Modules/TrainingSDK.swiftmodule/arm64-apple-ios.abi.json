@@ -38401,119 +38401,175 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 714,
+      "offset": 809,
       "length": 37,
       "value": "\"VivaHutSessionSummaryViewController\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1133,
-      "length": 21,
-      "value": "\"SessionExerciseCell\""
+      "offset": 1101,
+      "length": 9,
+      "value": "\"Minutos\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1222,
-      "length": 14,
-      "value": "\"exerciseCell\""
+      "offset": 1123,
+      "length": 17,
+      "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1435,
-      "length": 3,
-      "value": "\"-\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1537,
-      "length": 19,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1555,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1609,
-      "length": 3,
-      "value": "\"-\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1695,
+      "offset": 1187,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2004,
+      "offset": 1200,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1253,
+      "length": 12,
+      "value": "\"Ejercicios\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1278,
+      "length": 17,
+      "value": "\"TrainingStrings\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1342,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1355,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1532,
+      "length": 21,
+      "value": "\"SessionExerciseCell\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1621,
+      "length": 14,
+      "value": "\"exerciseCell\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1834,
+      "length": 3,
+      "value": "\"-\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1936,
+      "length": 19,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1954,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2008,
+      "length": 3,
+      "value": "\"-\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2094,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2403,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2225,
+      "offset": 2624,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2500,
+      "offset": 2899,
       "length": 13,
       "value": "\"contentSize\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2904,
+      "offset": 3303,
       "length": 9,
       "value": "\"youtube\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3153,
+      "offset": 3552,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3224,
+      "offset": 3623,
       "length": 7,
       "value": "\"vimeo\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3575,
+      "offset": 3974,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3750,
+      "offset": 4149,
       "length": 14,
       "value": "\"exerciseCell\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/Classes\/NewVivagymPlans\/VivaHutSessionSummaryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5212,
+      "offset": 5611,
       "length": 4,
       "value": "true"
     },
@@ -44337,21 +44393,21 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 21880,
+      "offset": 21920,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 22521,
+      "offset": 22529,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2CodeSPM\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 22760,
+      "offset": 22768,
       "length": 7,
       "value": "\"Error\""
     },

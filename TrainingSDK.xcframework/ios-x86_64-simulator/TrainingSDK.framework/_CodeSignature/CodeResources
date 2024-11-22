@@ -198,7 +198,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/ZIK-IE-rOh-view-2zB-4q-skZ.nib</key>
 		<data>
-		mG+khbu8HzWvOpIva0BdTpSfOXc=
+		OR77O2UQbe/zNbepdazpnzxYrb0=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/dLd-fU-dx4-view-AH4-8Y-FIi.nib</key>
 		<data>
-		kHOXA2X0TaJvXFOccA3WW6R0Xng=
+		cq9e27g8136WcLDOCYswMXfuuXY=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/tYZ-Vm-1YX-view-FaZ-4D-52g.nib</key>
 		<data>
-		iP51f3CldH9n5qU05PtMUgn0aaU=
+		hCZT6DUXfw/bxPVK1FhEOHFMgrk=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
 		<data>
@@ -318,7 +318,7 @@
 		</data>
 		<key>Headers/TrainingSDK-Swift.h</key>
 		<data>
-		xUWbcD9ZfNgstwThREaCNz6F6tA=
+		EmlDj0l0xjZbM1IPR4DpquCejyQ=
 		</data>
 		<key>HealthQuestionView.nib</key>
 		<data>
@@ -342,7 +342,7 @@
 		</data>
 		<key>Modules/TrainingSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pxjd3nu3wSH4HFkKHJUPtiCwz0w=
+		FFzb9x6J0azN3DqwiOsbj7EUmWE=
 		</data>
 		<key>Modules/TrainingSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -358,7 +358,7 @@
 		</data>
 		<key>Modules/TrainingSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UJx8Q2GYUhMkwONOoMuEZReoKq4=
+		cxvJQtirldRDx7RS4w5Q7wXnu5o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -430,7 +430,7 @@
 		</data>
 		<key>SessionExerciseCell.nib</key>
 		<data>
-		j+o202Lpn5LI4EJvsAD5QQA6UsA=
+		KDJtH37pzNLO9vxn5MUDc3fH5Os=
 		</data>
 		<key>SportGoalViewController.nib</key>
 		<data>
@@ -494,7 +494,7 @@
 		</data>
 		<key>VivaHutSessionSummaryViewController.nib</key>
 		<data>
-		M4/CY8sUmGaPmN9tlPRDGJqx5Vg=
+		EB21JXk096NhE5rGBvFt053XSC4=
 		</data>
 		<key>WaitingScreenViewController.nib</key>
 		<data>
@@ -895,7 +895,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fW3NMPofNmIYRR4WSY35PGoudDo=
+			+g1WAehYf5q2gmxREUi8Vu8KxgU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1597,7 +1597,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			joUtjs+S0GD/DyX2E3PoFsb6IdeUVRWG5sAJcXaUED4=
+			Wgf1s/Ix1mrO62C8pBNDz13fagVMSrJCoVpnZWPyYws=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
@@ -1611,7 +1611,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AKeq4ekaYYVL979+u+J1sEdmuwSJNDllg6sXMIEkwqM=
+			krzy/fEcdXknkkxPxz+6WX3RJHNGWAquIZysgsJL7hs=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
@@ -1660,7 +1660,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zm33RJVQBR79VQhXuNWRTOx2/37wNZrFkxA/uZf/jvo=
+			YUcvFYvrmXZXAHSG5Gps6juuQ5neB8VVC9gF0u2nvvU=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
@@ -1807,7 +1807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MKPQKhLTfX70DysAZYBysVSRKgpodCxk/U9mylvbcYA=
+			BZZuVlI5j624G3RLNHzwaGILgV36kRgdBeajcGneR/U=
 			</data>
 		</dict>
 		<key>HealthQuestionView.nib</key>
@@ -1842,7 +1842,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HU9PohX4rq4N8RHw+sNs811SDU35La+0AcFaje7nnl4=
+			hRQIXjrUQG7NCj67OKF4nR+DdB5PjZygiY6sIF2jEKA=
 			</data>
 		</dict>
 		<key>Modules/TrainingSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1870,7 +1870,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yUoKhkoSq7IYDWzzD1OxlBVhZdxKpipgHAyfoZt2qiI=
+			RfNmYJhMuVDN4UcE+GHYKLaVsHenAEBWWn1EyrfdsrA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1996,7 +1996,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e/fy0hB68tDLKPMhkt3jpmD+q7sWYgBwmKFdY453Dfc=
+			gYvvytvIS9rN0aqgUF9wy+/UZFCmUnFluPCOZ/Nb18I=
 			</data>
 		</dict>
 		<key>SportGoalViewController.nib</key>
@@ -2108,7 +2108,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HPk7H/6FbGoNBmQz+cO+WX6wcoEO/nQqZ+B94lr7zQA=
+			mZWxn5jq81b1hfufmDpnpGx90v1RNlAzn6HLkbITINQ=
 			</data>
 		</dict>
 		<key>WaitingScreenViewController.nib</key>
@@ -2543,7 +2543,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7eJlFjhXmN0hqPDmzCNnXRvb1NGB3zPj80lRtugOH5s=
+			OHNs4QEbbh3cSrnEYdjvTXk6dr920rrZWJpbe7E+oAM=
 			</data>
 			<key>optional</key>
 			<true/>

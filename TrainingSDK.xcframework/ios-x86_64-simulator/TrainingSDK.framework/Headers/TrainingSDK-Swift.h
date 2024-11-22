@@ -1789,6 +1789,8 @@ SWIFT_CLASS("_TtC11TrainingSDK35VivaHutSessionSummaryViewController")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified numberOfExercises;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified durationOfSession;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified nameOfSession;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified minutosLabel;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified ejerciciosLabel;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 - (void)viewDidLoad;
