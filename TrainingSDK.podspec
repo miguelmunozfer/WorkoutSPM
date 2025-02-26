@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "TrainingSDK"
+  spec.name         = "TrainingSDKXplor"
   spec.version      = "1.0.0"
   spec.summary      = "TrainingSDK es un SDK para entrenamiento."
   spec.description  = "Este SDK proporciona funcionalidades avanzadas para el entrenamiento y seguimiento de progreso."
