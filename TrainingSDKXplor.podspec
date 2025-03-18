@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TrainingSDKXplor"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "TrainingSDK es un SDK para entrenamiento."
   spec.description  = "Este SDK proporciona funcionalidades avanzadas para el entrenamiento y seguimiento de progreso."
   spec.homepage     = "https://github.com/miguelmunozfer/WorkoutSPM"
@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
 
   # Dependencia externa
   spec.dependency "Instructions", "2.3.0"
-
+  spec.swift_versions = ['4.0', '4.2', '5.0']
   # Incluir archivos fuente si son necesarios
   spec.source_files = "Sources/TrainingSDKWrapper/**/*.{h,m,swift}"
   spec.xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }

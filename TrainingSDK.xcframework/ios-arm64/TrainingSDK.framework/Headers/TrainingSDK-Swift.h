@@ -906,12 +906,12 @@ SWIFT_CLASS("_TtC11TrainingSDK18HealthQuestionView")
 - (void)selectedHealthButton:(HealthRoundButton * _Nonnull)sender;
 @end
 
+
 @class UITextField;
 
 @interface HealthQuestionView (SWIFT_EXTENSION(TrainingSDK)) <UITextFieldDelegate>
 - (void)textFieldDidChangeSelection:(UITextField * _Nonnull)textField;
 @end
-
 
 
 @interface HealthQuestionView (SWIFT_EXTENSION(TrainingSDK)) <AnswerDelegate>
@@ -1478,7 +1478,6 @@ SWIFT_CLASS("_TtC11TrainingSDK24StepByStepPageController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
-
 @class TintView;
 
 SWIFT_CLASS("_TtC11TrainingSDK23TimeBasedViewController")
@@ -1582,7 +1581,6 @@ SWIFT_CLASS("_TtC11TrainingSDK26TrainingMenuViewController")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
-
 
 
 SWIFT_CLASS("_TtC11TrainingSDK21TrainingProfileButton")
@@ -1996,7 +1994,6 @@ SWIFT_CLASS("_TtC11TrainingSDK25WorkoutHomeViewController")
 
 
 
-
 SWIFT_CLASS("_TtC11TrainingSDK15WorkoutInfoView")
 @interface WorkoutInfoView : UIView
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified time;
@@ -2059,7 +2056,6 @@ SWIFT_CLASS("_TtC11TrainingSDK21WorkoutViewController")
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
-
 
 
 
