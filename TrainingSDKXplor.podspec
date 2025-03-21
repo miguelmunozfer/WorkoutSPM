@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TrainingSDKXplor"
-  spec.version      = "1.0.4"
+  spec.version      = "1.0.5"
   spec.summary      = "TrainingSDK es un SDK para entrenamiento."
   spec.description  = "Este SDK proporciona funcionalidades avanzadas para el entrenamiento y seguimiento de progreso."
   spec.homepage     = "https://github.com/miguelmunozfer/WorkoutSPM"
@@ -8,10 +8,12 @@ Pod::Spec.new do |spec|
   spec.author       = { "Miguel Muñoz" => "miguel.munoz@myvitale.com" }
   spec.source       = { :git => "https://github.com/miguelmunozfer/WorkoutSPM.git", :tag => spec.version }
   spec.platform     = :ios, "12.0"
-
+  spec.static_framework = true
+  spec.resource_bundles = {
+    'TrainingSDKXplorResources' => ["**/*.lproj", "**/*.strings", "**/*.xib", "**/*.nib", "**/*.png"]
+  }
   # Especifica el framework binario principal
   spec.vendored_frameworks = ["TrainingSDK.xcframework", "WeFitterLib.xcframework"]
-
   # Dependencia externa
   spec.swift_versions = ['4.0', '4.2', '5.0']
   # Incluir archivos fuente si son necesarios
